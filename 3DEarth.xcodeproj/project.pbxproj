@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		200F975120D7808300CD8516 /* Moon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 200F975020D7808300CD8516 /* Moon.swift */; };
+		200F978D20D87FB200CD8516 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 200F978C20D87FB200CD8516 /* ViewController2.swift */; };
+		205A59DD20DDCBCC00440185 /* UIButtonX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 205A59DC20DDCBCC00440185 /* UIButtonX.swift */; };
+		205F44D220DDDF80005898D8 /* SideMenuVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 205F44D120DDDF80005898D8 /* SideMenuVC.swift */; };
+		205F44D420DDE085005898D8 /* ContainerVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 205F44D320DDE085005898D8 /* ContainerVC.swift */; };
+		205F44D620DDE121005898D8 /* MainVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 205F44D520DDE121005898D8 /* MainVC.swift */; };
+		205F44D820DF0594005898D8 /* SKScene1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 205F44D720DF0594005898D8 /* SKScene1.swift */; };
+		205F44DA20DF2C88005898D8 /* LoginSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 205F44D920DF2C88005898D8 /* LoginSection.swift */; };
+		205F44DC20DF2E27005898D8 /* BigOrb.swift in Sources */ = {isa = PBXBuildFile; fileRef = 205F44DB20DF2E27005898D8 /* BigOrb.swift */; };
 		2099523B20D5C20A006190D9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2099523A20D5C20A006190D9 /* AppDelegate.swift */; };
 		2099523D20D5C20A006190D9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2099523C20D5C20A006190D9 /* ViewController.swift */; };
 		2099524020D5C20A006190D9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2099523E20D5C20A006190D9 /* Main.storyboard */; };
@@ -14,6 +23,9 @@
 		2099524520D5C20B006190D9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2099524320D5C20B006190D9 /* LaunchScreen.storyboard */; };
 		2099525020D5C20B006190D9 /* _DEarthTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2099524F20D5C20B006190D9 /* _DEarthTests.swift */; };
 		2099525B20D5C20B006190D9 /* _DEarthUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2099525A20D5C20B006190D9 /* _DEarthUITests.swift */; };
+		2099526A20D5C3EC006190D9 /* StarParticles.scnp in Resources */ = {isa = PBXBuildFile; fileRef = 2099526820D5C3EC006190D9 /* StarParticles.scnp */; };
+		2099526B20D5C3EC006190D9 /* star.png in Resources */ = {isa = PBXBuildFile; fileRef = 2099526920D5C3EC006190D9 /* star.png */; };
+		2099526D20D5C596006190D9 /* EarthNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2099526C20D5C595006190D9 /* EarthNode.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +46,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		200F975020D7808300CD8516 /* Moon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Moon.swift; sourceTree = "<group>"; };
+		200F978C20D87FB200CD8516 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		205A59DC20DDCBCC00440185 /* UIButtonX.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = UIButtonX.swift; path = /Users/ab/Documents/3DEarth/3DEarth/UIButtonX.swift; sourceTree = "<absolute>"; };
+		205F44D120DDDF80005898D8 /* SideMenuVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenuVC.swift; sourceTree = "<group>"; };
+		205F44D320DDE085005898D8 /* ContainerVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerVC.swift; sourceTree = "<group>"; };
+		205F44D520DDE121005898D8 /* MainVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainVC.swift; sourceTree = "<group>"; };
+		205F44D720DF0594005898D8 /* SKScene1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SKScene1.swift; sourceTree = "<group>"; };
+		205F44D920DF2C88005898D8 /* LoginSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginSection.swift; sourceTree = "<group>"; };
+		205F44DB20DF2E27005898D8 /* BigOrb.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BigOrb.swift; sourceTree = "<group>"; };
 		2099523720D5C20A006190D9 /* 3DEarth.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 3DEarth.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2099523A20D5C20A006190D9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2099523C20D5C20A006190D9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +68,9 @@
 		2099525620D5C20B006190D9 /* 3DEarthUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 3DEarthUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2099525A20D5C20B006190D9 /* _DEarthUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _DEarthUITests.swift; sourceTree = "<group>"; };
 		2099525C20D5C20B006190D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2099526820D5C3EC006190D9 /* StarParticles.scnp */ = {isa = PBXFileReference; lastKnownFileType = file.scp; path = StarParticles.scnp; sourceTree = "<group>"; };
+		2099526920D5C3EC006190D9 /* star.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = star.png; sourceTree = "<group>"; };
+		2099526C20D5C595006190D9 /* EarthNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EarthNode.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,12 +121,24 @@
 		2099523920D5C20A006190D9 /* 3DEarth */ = {
 			isa = PBXGroup;
 			children = (
+				205A59DC20DDCBCC00440185 /* UIButtonX.swift */,
 				2099523A20D5C20A006190D9 /* AppDelegate.swift */,
 				2099523C20D5C20A006190D9 /* ViewController.swift */,
+				2099526C20D5C595006190D9 /* EarthNode.swift */,
+				2099526820D5C3EC006190D9 /* StarParticles.scnp */,
+				2099526920D5C3EC006190D9 /* star.png */,
 				2099523E20D5C20A006190D9 /* Main.storyboard */,
 				2099524120D5C20B006190D9 /* Assets.xcassets */,
 				2099524320D5C20B006190D9 /* LaunchScreen.storyboard */,
 				2099524620D5C20B006190D9 /* Info.plist */,
+				200F975020D7808300CD8516 /* Moon.swift */,
+				200F978C20D87FB200CD8516 /* ViewController2.swift */,
+				205F44D120DDDF80005898D8 /* SideMenuVC.swift */,
+				205F44D320DDE085005898D8 /* ContainerVC.swift */,
+				205F44D520DDE121005898D8 /* MainVC.swift */,
+				205F44D720DF0594005898D8 /* SKScene1.swift */,
+				205F44D920DF2C88005898D8 /* LoginSection.swift */,
+				205F44DB20DF2E27005898D8 /* BigOrb.swift */,
 			);
 			path = 3DEarth;
 			sourceTree = "<group>";
@@ -230,6 +266,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				2099524520D5C20B006190D9 /* LaunchScreen.storyboard in Resources */,
+				2099526B20D5C3EC006190D9 /* star.png in Resources */,
+				2099526A20D5C3EC006190D9 /* StarParticles.scnp in Resources */,
 				2099524220D5C20B006190D9 /* Assets.xcassets in Resources */,
 				2099524020D5C20A006190D9 /* Main.storyboard in Resources */,
 			);
@@ -256,7 +294,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				205F44D420DDE085005898D8 /* ContainerVC.swift in Sources */,
+				200F978D20D87FB200CD8516 /* ViewController2.swift in Sources */,
+				205F44D220DDDF80005898D8 /* SideMenuVC.swift in Sources */,
 				2099523D20D5C20A006190D9 /* ViewController.swift in Sources */,
+				205F44DC20DF2E27005898D8 /* BigOrb.swift in Sources */,
+				205F44D620DDE121005898D8 /* MainVC.swift in Sources */,
+				205F44DA20DF2C88005898D8 /* LoginSection.swift in Sources */,
+				205A59DD20DDCBCC00440185 /* UIButtonX.swift in Sources */,
+				205F44D820DF0594005898D8 /* SKScene1.swift in Sources */,
+				2099526D20D5C596006190D9 /* EarthNode.swift in Sources */,
+				200F975120D7808300CD8516 /* Moon.swift in Sources */,
 				2099523B20D5C20A006190D9 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
